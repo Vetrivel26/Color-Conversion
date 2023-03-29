@@ -17,8 +17,8 @@ Step5: Destroy all the windows and end the program.
 
 ## Program:
 ```python
-# Developed By:Lakshman
-# Register Number:212222240001
+# Developed By:S.Vetrivel 
+# Register Number:212222240060
 # i) Convert BGR and RGB to HSV and GRAY
 
 import cv2
